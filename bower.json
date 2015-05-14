@@ -22,5 +22,10 @@
     "Chromium",
     "Firefox"
   ],
+  "ignore": [
+    "README.md",
+    "LICENSE.md",
+    "CONTRIBUTING.md"
+  ],
   "license": "BSD-3-Clause"
 }
